@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dot-object": "^1.7.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mysportsfeeds-node": "^1.0.0",
     "socket.io": "^2.5.0"
   }
