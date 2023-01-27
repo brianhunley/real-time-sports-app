@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dot-object": "^1.7.0",
+    "dot-object": "^2.1.4",
     "express": "^4.16.3",
-    "mysportsfeeds-node": "^1.0.0",
+    "mysportsfeeds-node": "^2.1.2",
     "socket.io": "^2.1.1"
   }
 }
